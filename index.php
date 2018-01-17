@@ -8,11 +8,11 @@
   	<link rel="stylesheet" href="css/bootstrap-css/bootstrap.css">
   	<link rel="stylesheet" href="css/index.css">
   	<link rel="stylesheet" href="css/sections/header.css">
-  	<link rel="stylesheet" href="css/sections/nav.css">
+  	<link rel="stylesheet" href="css/sections/desktop-nav.css">
   </head>
   <body>
     <?php include('sections/header.php')?>
-    <?php include('sections/nav.php')?>
+    <?php include('sections/desktop-nav.php')?>
   </body>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="js/bootstrap-js/bootstrap.js"></script>
