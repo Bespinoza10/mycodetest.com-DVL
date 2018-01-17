@@ -1,0 +1,12 @@
+/* Top-Bar */
+
+.logo-container{
+  width: 100%;
+  text-align: center;
+}
+.navbar-brand{
+  text-align: center
+}
+.top-logo{
+  background: red;
+}
