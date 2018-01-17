@@ -8,7 +8,7 @@
   text-align: center
 }
 .top-logo{
-  background: red;
+  margin-top: 20px;
 }
 
 
@@ -62,4 +62,27 @@
   width: 100%;
   border-radius: 20px;
 
+}
+
+@media (max-width: 786px){
+  .home-bg{
+    background-image: url('../../img/buildings.jpg');
+    background-repeat: none;
+    background-attachment: fixed;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    margin-top: -121px;
+    height: 100vh;
+  }
+  .header-title{
+    font-size: 44px;
+  }
+  .header-sub-title{
+    letter-spacing: 2px;
+    font-weight: 100;
+    font-size: 30px;
+  }
 }
