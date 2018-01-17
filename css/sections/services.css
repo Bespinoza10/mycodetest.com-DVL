@@ -56,3 +56,15 @@
   -o-background-size: cover;
   height: 400px;
 }
+
+/* Mobile Layout */
+@media (min-width: 768px){
+  #mobile{
+    display: none;
+  }
+}
+@media (max-width: 768px){
+  #desktop{
+    display: none;
+  }
+}
