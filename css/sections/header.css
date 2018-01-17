@@ -10,3 +10,56 @@
 .top-logo{
   background: red;
 }
+
+
+/* Header Background and Components */
+.home-bg{
+  background-image: url('../../img/buildings.jpg');
+  background-repeat: none;
+  background-attachment: fixed;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  margin-top: -65px;
+  height: 100vh;
+}
+
+.header-text{
+  color: #fff;
+}
+
+.header-sub-title{
+  letter-spacing: 2px;
+  font-weight: 100;
+  font-size: 40px;
+}
+
+.header-title{
+  font-size: 55px;
+  letter-spacing: 4px;
+}
+
+.header-text-two{
+  margin-top: 8%;
+}
+
+.header-sub-text{
+  letter-spacing: 2px;
+  font-size: 18px;
+}
+
+.header-btn-section{
+  margin-top: 8%;
+}
+
+.header-btn{
+  color: #81302a;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 18px;
+  width: 100%;
+  border-radius: 20px;
+
+}
