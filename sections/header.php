@@ -17,5 +17,3 @@
 
   </div>
 </header>
-
-<h1>Hello World I am the Brwnmamba</h1>

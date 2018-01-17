@@ -1,27 +1,11 @@
-<nav class="navbar navbar-default">
-  <div class="container-fluid">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <div class="logo-container">
-        <a class="navbar-brand" href="#">Hello</a>
-      </div>
-
-    </div>
-
-    <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav navbar-right">
-        <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
-        <li><a href="#">FB</a></li>
-        <li><a href="#">TW</a></li>
-        <li><a href="#">IN</a></li>
-      </ul>
-    </div><!-- /.navbar-collapse -->
-  </div><!-- /.container-fluid -->
-</nav>
+<div class="desktop-nav">
+  <div class="container desktop-nav-links-section">
+      <a class="space">Home</a>
+      <a class="space">Services</a>
+      <a class="space">News</a>
+      <a class="space">Capital</a>
+      <a class="space">Resources</a>
+      <a class="space">Careers</a>
+      <a>Contact</a>
+  </div>
+</div>
