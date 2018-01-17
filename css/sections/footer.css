@@ -1,0 +1,57 @@
+#footer{
+  background: #464646;
+  padding: 3% 6%;
+}
+#footer a{
+  color: #cecece;
+}
+#footer a:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+.footer-logo img{
+  padding: 50px 20px;
+}
+
+/* news section */
+.news-row{
+  padding: 1% 0%;
+}
+  .news-title{
+    color: #fff;
+    text-transform: uppercase;
+    margin: 0px;
+  }
+  .news-date{
+    color: #829b9e;
+  }
+  .news-headline{
+    color: #cecece;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+
+/* contact section */
+.contact-title{
+  color: #fff;
+  text-transform: uppercase;
+}
+.contact-address a{
+  color: #829b9e !important;
+}
+.contact-telephone a{
+  color: #829b9e !important;
+}
+.contact-email{
+  color: #fff;
+}
+
+
+@media (max-width: 768px){
+  #footer{
+    padding: 6%;
+  }
+  .footer-links{
+    display: none;
+  }
+}

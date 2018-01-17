@@ -10,11 +10,13 @@
   	<link rel="stylesheet" href="css/sections/header.css">
   	<link rel="stylesheet" href="css/sections/desktop-nav.css">
   	<link rel="stylesheet" href="css/sections/services.css">
+  	<link rel="stylesheet" href="css/sections/footer.css">
   </head>
   <body>
     <?php include('sections/header.php')?>
     <?php include('sections/desktop-nav.php')?>
     <?php include('sections/services.php')?>
+    <?php include('sections/footer.php')?>
   </body>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="js/bootstrap-js/bootstrap.js"></script>
