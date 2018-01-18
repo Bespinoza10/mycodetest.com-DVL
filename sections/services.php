@@ -18,8 +18,7 @@
     </div>
     <div class="col-sm-6 col-md-6 col-lg-6 service-info vertical-align">
       <div class="vertical-section">
-        <h1>Managers</h1>
-        <h1>Headline.</h1>
+        <h1>Managers Headline.</h1>
         <p>Vero antehabeo facilisi eu consectetuer consectetuer nonummy caecus neque modo. Ut typicus luptatum indoles jus. Accumsan dignissim acsi imputo zelus. Consequat feugait usitas caecus molior modo hos multo minim dolor in appellatio. <a>Esse diam premo</a>.</p>
       </div>
     </div>
@@ -28,8 +27,7 @@
   <div class="col-md-12 services-row">
     <div class="col-sm-6 col-md-6 col-lg-6 service-info vertical-align">
       <div class="vertical-section">
-        <h1>Investor</h1>
-        <h1>Headline.</h1>
+        <h1>Investor Headline.</h1>
         <p>Paratus aliquip velit nullus neo dolore at gravis sagaciter at jumentum. Quadrum neque usitas dolor quod. Enim cui interdico commodo <a href="index.php">dolore demoveo</a> fatua valde euismod saluto opes.</p>
       </div>
     </div>

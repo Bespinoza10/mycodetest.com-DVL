@@ -150,7 +150,7 @@ nav.navbar{
   }
 }
 
-@media (min-width: 768px){
+@media (min-width: 786px){
   .home-bg{
     background-image: url('../../img/buildings.jpg');
     background-repeat: none;

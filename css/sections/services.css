@@ -63,12 +63,12 @@
 }
 
 /* Mobile Layout */
-@media (min-width: 768px){
+@media (min-width: 786px){
   #mobile{
     display: none;
   }
 }
-@media (max-width: 768px){
+@media (max-width: 786px){
   #desktop{
     display: none;
   }
