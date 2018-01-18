@@ -99,6 +99,7 @@ nav.navbar{
 .bg-title{
   letter-spacing: 3px;
   font-size: 20px;
+  font-weight: 700;
 }
 
 .bg-text-two{
@@ -107,6 +108,7 @@ nav.navbar{
 .bg-sub-text{
   letter-spacing: 2px;
   font-size: 12px;
+  font-weight: 100;
 }
 
 .bg-btn-section{
@@ -121,7 +123,19 @@ nav.navbar{
   font-size: 12px;
   width: 100%;
   border-radius: 20px;
-
+  transition: .3s ease-in-out all;
+  -webkit-transition: .3s ease-in-out all;
+  -moz-transition: .3s ease-in-out all;
+  -o-transition: .3s ease-in-out all;
+}
+.bg-btn:hover{
+  transform: scale(1.1);
+  color: #81302a;
+  box-shadow: 0px 13px 20px #00000075;
+  transition: .3s ease-in-out all;
+  -webkit-transition: .3s ease-in-out all;
+  -moz-transition: .3s ease-in-out all;
+  -o-transition: .3s ease-in-out all;
 }
 
 
@@ -138,7 +152,7 @@ nav.navbar{
   .bg-text-container{
     display: flex;
     align-items: center;
-    height: inherit;
+    height: 95vh;
     top: 0% !important;
   }
   .bg-second-title{
@@ -172,6 +186,24 @@ nav.navbar{
   }
   .social-media-links{
     text-align: right;
+    transition: .3s ease-in-out all;
+    -webkit-transition: .3s ease-in-out all;
+    -moz-transition: .3s ease-in-out all;
+    -o-transition: .3s ease-in-out all;
+  }
+  .social-media-links li:hover{
+    transform: scale(1.5);
+    transition: .3s ease-in-out all;
+    -webkit-transition: .3s ease-in-out all;
+    -moz-transition: .3s ease-in-out all;
+    -o-transition: .3s ease-in-out all;
+  }
+
+  .social-media-links li{
+    transition: .3s ease-in-out all;
+    -webkit-transition: .3s ease-in-out all;
+    -moz-transition: .3s ease-in-out all;
+    -o-transition: .3s ease-in-out all;
   }
 }
 

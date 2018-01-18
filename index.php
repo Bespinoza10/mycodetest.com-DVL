@@ -11,6 +11,7 @@
   	<link rel="stylesheet" href="css/sections/desktop-nav.css">
   	<link rel="stylesheet" href="css/sections/services.css">
   	<link rel="stylesheet" href="css/sections/footer.css">
+  	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
   </head>
   <body>
     <?php include('sections/header.php')?>
