@@ -1,17 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-  	<title>DVL Code Test</title>
-  	<link rel="stylesheet" href="css/bootstrap-css/bootstrap.css">
-  	<link rel="stylesheet" href="css/index.css">
-  	<link rel="stylesheet" href="css/sections/header.css">
-  	<link rel="stylesheet" href="css/sections/desktop-nav.css">
-  	<link rel="stylesheet" href="css/sections/services.css">
-  	<link rel="stylesheet" href="css/sections/footer.css">
-  	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+    <?php
+		  $pagetitle = "My DVL Code Test";
+		  include('sections/head.php')
+		?>
   </head>
   <body>
     <?php include('sections/header.php')?>
@@ -19,11 +12,5 @@
     <?php include('sections/services.php')?>
     <?php include('sections/footer.php')?>
   </body>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-  <script>
-    $(".navbar-toggle").click(function(){
-      $(this).parent(".navbar-header").toggleClass("mobile-navbar");
-    });
-  </script>
-  <script src="js/bootstrap-js/bootstrap.js"></script>
+    <?php include('sections/scripts.php')?>
 </html>
