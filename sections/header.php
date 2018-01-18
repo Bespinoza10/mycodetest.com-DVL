@@ -13,24 +13,19 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="navbar-collapse-1">
 
-      <ul class="nav navbar-nav navbar-left">
-        <li><a href="#">Menu</a></li>
-        <li><a href="#">Menu</a></li>
+      <ul class="nav navbar-nav navbar-left mobile-menu-items">
+        <li><a href="#">About</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">News</a></li>
+        <li><a href="#">Capital</a></li>
+        <li><a href="#">Resources</a></li>
+        <li><a href="#">Careers</a></li>
+        <li><a href="#">Contact</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Link</a></li>
-        <li><a href="#">Link</a></li>
-        <li><a href="#">Link</a></li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
-          <ul class="dropdown-menu">
-            <li><a href="#">Action</a></li>
-            <li><a href="#">Another action</a></li>
-            <li><a href="#">Something else here</a></li>
-            <li class="divider"></li>
-            <li><a href="#">Separated link</a></li>
-          </ul>
-        </li>
+        <li><a href="https://www.facebook.com/"><img src="img/facebook.png"></a></li>
+        <li><a href="https://twitter.com/"><img src="img/twitter.png"></a></li>
+        <li><a href="https://www.linkedin.com"><img class="img-responsive" src="img/linkedin.png"></a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
 </nav>
@@ -52,35 +47,4 @@
       </div>
     </div>
   </div>
-
-
-<!--
-  <div class="header-container col-sm-12 col-md-12 col-lg-12 vertical-align desktop-header">
-    <div class="col-sm-8 col-md-8 center-column header-text">
-      <h2 class="header-sub-title center-text">BUSINESS PROCESS SOLUTIONS THAT</h2>
-      <h1 class="header-title center-text">ACCELERATE YOUR GROWTH.</h1>
-      <div class="col-sm-10 col-md-10 center-column header-text-two">
-        <p class="center-text header-sub-text">We will take care of your back office, so you can focus on amplifying your companies revenue, people and services.</p>
-      </div>
-      <div class="col-xs-8 col-sm-4 col-md-4 header-btn-section center-column">
-        <button type="button" class="btn header-btn">WORK WITH US</button>
-      </div>
-    </div>
-  </div>
--->
-
-<!--
-  <div class="header-container col-sm-12 col-md-12 col-lg-12 mobile-header">
-    <div class="col-sm-8 col-md-8 center-column mobile-header-text">
-      <h2 class="mobile-header-sub-title center-text">BUSINESS PROCESS SOLUTIONS THAT</h2>
-      <h1 class="mobile-header-title center-text">ACCELERATE YOUR GROWTH.</h1>
-      <div class="col-sm-10 col-md-10 center-column mobile-header-text-two">
-        <p class="center-text header-sub-text">We will take care of your back office, so you can focus on amplifying your companies revenue, people and services.</p>
-      </div>
-      <div class="col-xs-8 col-sm-4 col-md-4 mobile-header-btn-section center-column">
-        <button type="button" class="btn header-btn">WORK WITH US</button>
-      </div>
-    </div>
-  </div>
--->
 </header>
