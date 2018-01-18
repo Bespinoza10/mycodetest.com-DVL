@@ -27,6 +27,7 @@
 .service-one-bg{
   background-image: url('../../img/bulb.jpg');
   background-repeat: no-repeat;
+  background-attachment: fixed;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -39,6 +40,7 @@
 .service-two-bg{
   background-image: url('../../img/gears.jpg');
   background-repeat: no-repeat;
+  background-attachment: fixed;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -51,6 +53,7 @@
 .service-three-bg{
   background-image: url('../../img/bamboo.jpg');
   background-repeat: no-repeat;
+  background-attachment: fixed;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -68,5 +71,8 @@
 @media (max-width: 768px){
   #desktop{
     display: none;
+  }
+  .service-one-bg, .service-two-bg, .service-three-bg{
+    background-attachment: scroll;
   }
 }
