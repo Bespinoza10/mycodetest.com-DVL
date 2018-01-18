@@ -47,7 +47,7 @@
       <div class="col-sm-10 col-md-8 col-lg-6 center-column bg-text-two">
         <p class="center-text bg-sub-text">We will take care of your back office, so you can focus on amplifying your companies revenue, people and services.</p>
       </div>
-      <div class="col-xs-10 col-sm-10 col-md-3 col-lg-4 center-column bg-btn-section">
+      <div class="col-xs-8 col-sm-8 col-md-3 col-lg-3 center-column bg-btn-section">
         <a class="btn bg-btn" href="#">WORK WITH US</a>
       </div>
     </div>

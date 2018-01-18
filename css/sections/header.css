@@ -179,22 +179,21 @@ nav.navbar{
   }
 
   .bg-text-two{
-    margin-top: 20%;
+    margin-top: 15%;
   }
   .bg-sub-text{
     letter-spacing: 2px;
   }
 
   .bg-btn-section{
-    margin-top: 20%;
+    margin-top: 15%;
   }
 
   .bg-btn{
     color: #81302a;
     background: #fff;
-    padding-top: 10px;
     padding-bottom: 10px;
-    font-size: 18px;
+    font-size: 15px;
     width: 100%;
     border-radius: 20px;
 
@@ -216,6 +215,7 @@ nav.navbar{
     display: flex;
     align-items: center;
     height: inherit;
+    top: 0px;
   }
 }
 
