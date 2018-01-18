@@ -23,9 +23,9 @@
         <li><a href="#">Contact</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right social-media-links">
-        <li><a href="https://www.facebook.com/"><img src="img/facebook.png"></a></li>
-        <li><a href="https://twitter.com/"><img src="img/twitter.png"></a></li>
-        <li><a href="https://www.linkedin.com"><img src="img/linkedin.png"></a></li>
+        <li><a target="_blank" href="https://www.facebook.com/"><img src="img/facebook.png"></a></li>
+        <li><a target="_blank" href="https://twitter.com/"><img src="img/twitter.png"></a></li>
+        <li><a target="_blank" href="https://www.linkedin.com"><img src="img/linkedin.png"></a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
 </nav>
